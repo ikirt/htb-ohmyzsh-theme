@@ -48,7 +48,8 @@ prompt_dir() {
 # VPN: htb vpn location
 prompt_vpn_loc() {
   #this script can be found here https://github.com/theGuildHall/pwnbox
-  htb_vpn_loc=`/opt/vpnserver.sh`
+  #htb_vpn_loc=`/opt/vpnserver.sh`
+  htb_vpn_loc=`cat /etc/openvpn/*.ovpn | grep "remote " | cut -d " " -f 2 | cut -d "." -f 1 | cut -d "-" -f 2-|head -n1`
   if 
   echo -n  "%{%k%F{white}%}${htb_vpn_loc}%{%k%F{$green}%}]-["
 }
