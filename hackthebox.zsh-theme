@@ -118,5 +118,6 @@ build_prompt() {
   prompt_end
 }
 
-PROMPT='%{%f%B%k%}$(build_prompt) '
+PROMPT='%{%f%B%k%}$(build_prompt) %{$reset_color%}'
 
+zle_highlight=( default:bold,fg=$green )
