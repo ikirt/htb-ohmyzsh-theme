@@ -4,7 +4,7 @@ HTB recently release it’s web VM PwnBox which is running ParrotOS. The shell o
 
 Here is what HTB PwnBox BASH shell looks like
 
-![normal_user](images/htb-pwn-ss.png?raw=true "Normal User")
+![2023-03-27_11-01](https://user-images.githubusercontent.com/128290319/227807422-884d1c7f-0923-4908-ad0e-0838fc846ffe.png)
 
 ohmyzsh theme
 
