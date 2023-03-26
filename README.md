@@ -5,13 +5,3 @@ HTB recently release it’s web VM PwnBox which is running ParrotOS. The shell o
 Here is what HTB PwnBox BASH shell looks like
 
 ![2023-03-27_11-05](https://user-images.githubusercontent.com/128290319/227807577-5a3a148e-3e7f-415a-9c80-06a200ff2797.png)
-
-ohmyzsh theme
-
-Normal User
-
-![normal_user](images/htb-ohmyzsh-normal-user.png?raw=true "Normal User")
-
-Root User
-
-![normal_user](images/htb-ohmyzsh-root-user.png?raw=true "Root User")
