@@ -4,14 +4,14 @@
 #
 #  P  E  N   -   T  E  S  T  I  N  G     L  A  B  S
 #  HTB ZSH theme
-#  This is modified from https://gist.github.com/MadLittleMods/2dc87634c6f3649852fba89b9b98e366#file-eric-zsh-theme
-#  Modifier: triki
-#  Date: 06-16-20
+#  This is modified from https://github.com/ikirt/htb-ohmyzsh-theme
+#  Modifier: FizzNomad
+#  Date: 27-03-23
 
 # Custom Colors
-green='82'
-blue='21'
-red='196'
+green='154'
+blue='153'
+red='217'
 
 CURRENT_BG='NONE'
 
